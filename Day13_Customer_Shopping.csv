@@ -1,0 +1,31 @@
+Customer_ID,Age,Gender,City,Product,Quantity,Sales,Payment_Method
+1001,22,Female,Nagpur,Laptop,1,55000,UPI
+1002,35,Male,Pune,Mobile,2,30000,Credit Card
+1003,28,Female,Mumbai,Headphones,1,2500,UPI
+1004,42,Male,Nagpur,Tablet,1,18000,Debit Card
+1005,31,Female,Pune,Mobile,1,15000,Cash
+1006,24,Male,Mumbai,Laptop,1,60000,Credit Card
+1007,39,Female,Nagpur,Smartwatch,2,10000,UPI
+1008,27,Male,Pune,Headphones,3,7500,Debit Card
+1009,46,Female,Mumbai,Tablet,1,20000,Credit Card
+1010,33,Male,Nagpur,Mobile,2,32000,UPI
+1011,29,Female,Pune,Laptop,1,58000,Debit Card
+1012,51,Male,Mumbai,Smartwatch,1,5000,Cash
+1013,23,Female,Nagpur,Headphones,2,5000,UPI
+1014,37,Male,Pune,Tablet,2,38000,Credit Card
+1015,30,Female,Mumbai,Mobile,1,16000,Debit Card
+1016,26,Male,Nagpur,Laptop,1,57000,Credit Card
+1017,44,Female,Pune,Smartwatch,2,12000,UPI
+1018,32,Male,Mumbai,Headphones,1,3000,Cash
+1019,21,Female,Nagpur,Tablet,1,19000,Debit Card
+1020,40,Male,Pune,Mobile,2,31000,Credit Card
+1021,34,Female,Mumbai,Laptop,1,62000,UPI
+1022,25,Male,Nagpur,Smartwatch,1,4500,Cash
+1023,48,Female,Pune,Headphones,2,5000,Credit Card
+1024,29,Male,Mumbai,Tablet,1,21000,UPI
+1025,36,Female,Nagpur,Mobile,2,34000,Debit Card
+1026,27,Male,Pune,Laptop,1,59000,Credit Card
+1027,41,Female,Mumbai,Smartwatch,1,6000,UPI
+1028,23,Male,Nagpur,Headphones,3,7500,Cash
+1029,38,Female,Pune,Tablet,1,19500,Debit Card
+1030,32,Male,Mumbai,Mobile,1,17000,Credit Card
